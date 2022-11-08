@@ -487,9 +487,6 @@ input{
         padding: 70px 3%;
         transition: .3s;
     }
-    .contact{
-        transition: .3s;
-    }
     :root{
         --big-font: 4rem;
         --h2-font: 2.3rem;

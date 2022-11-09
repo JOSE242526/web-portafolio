@@ -114,7 +114,7 @@ img {
 .home{
     min-height: 100vh;
     height: 100%;
-    width: 100%;
+    width: 90%;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -124,6 +124,7 @@ img {
     grid: 4rem;
     top: 0px;
     justify-content: center;
+    margin-left: 110px;
 }
 .home-text h1{
     margin: 10px 0px 25px;

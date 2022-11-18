@@ -41,7 +41,7 @@ header{
     display: flex;
     justify-content: space-between;
     background: transparent;
-    padding: 100px 18%;
+    padding: 0px 15%;
     transition: .3s;
 }
 .logo img {

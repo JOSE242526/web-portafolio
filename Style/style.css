@@ -377,9 +377,9 @@ margin-top: 80px;
     height: auto;
     margin: 80px auto;
     border-radius: 10px;  
-    padding-top: 30px;
-    padding-bottom: 10px;  
-    background-color: var(--bg-color); 
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 20%;
     opacity: 90%;
 }
 
